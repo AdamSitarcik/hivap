@@ -1,42 +1,42 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   225.2      EXCIT=    21.0      CN= 197At  
-    FUSION X-SECT=  0.1187E-05      LCRIT=   0.0
-    EVAP SO FAR  0.9420E-08      FISSION  0.1178E-05
+    FUSION X-SECT=  0.1183E-05      LCRIT=   0.0
+    EVAP SO FAR  0.9390E-08      FISSION  0.1174E-05
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.7104E-12  0.7954E-08  0.4676E-09  0.0000E+00  0.9872E-09        0.1066E-10  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.7081E-12  0.7928E-08  0.4661E-09  0.0000E+00  0.9840E-09        0.1063E-10  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.106E-08  0.399E-08  0.437E-08
+  0.106E-08  0.398E-08  0.435E-08
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.125E-10  0.435E-08  0.710E-12
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.124E-10  0.434E-08  0.708E-12
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.391E-09  0.360E-08
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.389E-09  0.359E-08
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.107E-10  0.987E-09  0.000E+00  0.645E-10
+  0.000E+00  0.000E+00  0.000E+00  0.106E-10  0.984E-09  0.000E+00  0.643E-10
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   84.35    0.65    1.59
  AVERAGE A,DELTAA,FWHMA SO FAR  195.63    1.37    2.21
 
 
  SPECTRUM G
-    AVERAGE=   2.237    SUM=   0.394E-07
+    AVERAGE=   2.237    SUM=   0.393E-07
     0.00      0   3580   3104   1755    863    409    194     92      0      0
  SPECTRUM G
-    AVERAGE=   0.054    SUM=   0.384E-07
+    AVERAGE=   0.054    SUM=   0.383E-07
     0.00   9672    222     32     39     32      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.605    SUM=   0.325E-07
+    AVERAGE=   1.605    SUM=   0.324E-07
     0.10   1382   4470   2568   1062    365    110     29      6      1      0
  SPECTRUM P
-    AVERAGE=   9.213    SUM=   0.230E-07
+    AVERAGE=   9.213    SUM=   0.229E-07
     0.00      0      0      0      0      0     58    350   1069   1977   2414
    10.00   2029   1225    569    215     67     18      4      0      0      0
  SPECTRUM A
@@ -44,7 +44,7 @@
    10.00      0      0      0      0      0    113    325    738   1327   1890
    20.00   2102   1757   1061    469    158     42      9      1      0      0
  SPECTRUM F
-    AVERAGE=   0.463    SUM=   0.196E-05
+    AVERAGE=   0.463    SUM=   0.195E-05
     0.00   6805   2190    697    216     64     18      4      1      0      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -55,26 +55,26 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   226.6      EXCIT=    22.0      CN= 197At  
-    FUSION X-SECT=  0.6072E-05      LCRIT=   0.0
-    EVAP SO FAR  0.3345E-07      FISSION  0.6039E-05
+    FUSION X-SECT=  0.6053E-05      LCRIT=   0.0
+    EVAP SO FAR  0.3335E-07      FISSION  0.6019E-05
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.8223E-12  0.2438E-07  0.3866E-08  0.0000E+00  0.5090E-08        0.1231E-09  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.8197E-12  0.2430E-07  0.3853E-08  0.0000E+00  0.5074E-08        0.1227E-09  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.566E-08  0.153E-07  0.125E-07
+  0.565E-08  0.152E-07  0.125E-07
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.322E-09  0.122E-07  0.822E-12
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.321E-09  0.122E-07  0.820E-12
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.309E-08  0.122E-07
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.308E-08  0.121E-07
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.123E-09  0.509E-08  0.000E+00  0.450E-09
+  0.000E+00  0.000E+00  0.000E+00  0.123E-09  0.507E-08  0.000E+00  0.449E-09
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   84.21    0.79    1.67
  AVERAGE A,DELTAA,FWHMA SO FAR  195.41    1.59    2.58
@@ -84,7 +84,7 @@
     AVERAGE=   2.350    SUM=   0.151E-06
     0.00      0   3340   3007   1817    969    494    247    122      0      0
  SPECTRUM G
-    AVERAGE=   0.058    SUM=   0.135E-06
+    AVERAGE=   0.058    SUM=   0.134E-06
     0.00   9659    224     33     43     39      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   1.663    SUM=   0.187E-06
@@ -94,11 +94,11 @@
     0.00      0      0      0      0      0     49    310    981   1873   2367
    10.00   2073   1313    645    260     88     26      6      1      0      0
  SPECTRUM A
-    AVERAGE=  19.942    SUM=   0.756E-08
+    AVERAGE=  19.942    SUM=   0.753E-08
    10.00      0      0      0      0      0     94    280    653   1209   1789
    20.00   2085   1842   1186    565    209     62     15      3      0      0
  SPECTRUM F
-    AVERAGE=   0.485    SUM=   0.992E-05
+    AVERAGE=   0.485    SUM=   0.989E-05
     0.00   6703   2225    731    235     73     21      6      1      0      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -109,50 +109,50 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   228.0      EXCIT=    23.0      CN= 197At  
-    FUSION X-SECT=  0.3038E-04      LCRIT=   0.0
-    EVAP SO FAR  0.1266E-06      FISSION  0.3025E-04
+    FUSION X-SECT=  0.3028E-04      LCRIT=   0.0
+    EVAP SO FAR  0.1262E-06      FISSION  0.3015E-04
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.7130E-07  0.2998E-07  0.4200E-13  0.2409E-07        0.1237E-08  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.7108E-07  0.2988E-07  0.4186E-13  0.2402E-07        0.1233E-08  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.282E-07  0.611E-07  0.373E-07
+  0.282E-07  0.609E-07  0.372E-07
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.447E-08  0.328E-07  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.446E-08  0.327E-07  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.226E-07  0.385E-07
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.225E-07  0.384E-07
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.124E-08  0.241E-07  0.420E-13  0.292E-08
+  0.000E+00  0.000E+00  0.000E+00  0.123E-08  0.240E-07  0.419E-13  0.291E-08
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   84.07    0.93    1.69
  AVERAGE A,DELTAA,FWHMA SO FAR  195.15    1.85    2.78
 
 
  SPECTRUM G
-    AVERAGE=   2.451    SUM=   0.594E-06
+    AVERAGE=   2.451    SUM=   0.592E-06
     0.00      0   3159   2904   1848   1055    574    302    154      0      0
  SPECTRUM G
-    AVERAGE=   0.062    SUM=   0.490E-06
+    AVERAGE=   0.062    SUM=   0.488E-06
     0.00   9643    229     35     47     45      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.717    SUM=   0.105E-05
+    AVERAGE=   1.717    SUM=   0.104E-05
     0.10   1234   4245   2635   1196    460    158     49     13      3      0
  SPECTRUM P
-    AVERAGE=   9.455    SUM=   0.707E-06
+    AVERAGE=   9.455    SUM=   0.704E-06
     0.00      0      0      0      0      0     42    277    904   1776   2318
    10.00   2104   1390    718    306    111     35      9      2      0      0
  SPECTRUM A
-    AVERAGE=  20.113    SUM=   0.438E-07
+    AVERAGE=  20.113    SUM=   0.437E-07
    10.00      0      0      0      0      0     79    242    581   1108   1694
    20.00   2054   1903   1295    658    263     86     24      5      1      0
  SPECTRUM F
-    AVERAGE=   0.507    SUM=   0.491E-04
+    AVERAGE=   0.507    SUM=   0.490E-04
     0.00   6605   2258    764    253     81     25      7      2      0      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -163,50 +163,50 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   229.4      EXCIT=    24.0      CN= 197At  
-    FUSION X-SECT=  0.1491E-03      LCRIT=   0.0
-    EVAP SO FAR  0.5306E-06      FISSION  0.1485E-03
+    FUSION X-SECT=  0.1486E-03      LCRIT=   0.0
+    EVAP SO FAR  0.5289E-06      FISSION  0.1481E-03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2003E-06  0.2148E-06  0.2447E-11  0.1045E-06        0.1098E-07  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1996E-06  0.2141E-06  0.2439E-11  0.1042E-06        0.1095E-07  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.133E-06  0.268E-06  0.129E-06
+  0.133E-06  0.267E-06  0.129E-06
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.444E-07  0.850E-07  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.443E-07  0.848E-07  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.153E-06  0.115E-06
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.152E-06  0.115E-06
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.110E-07  0.105E-06  0.245E-11  0.178E-07
+  0.000E+00  0.000E+00  0.000E+00  0.109E-07  0.104E-06  0.244E-11  0.177E-07
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.99    1.01    1.66
  AVERAGE A,DELTAA,FWHMA SO FAR  194.92    2.08    2.74
 
 
  SPECTRUM G
-    AVERAGE=   2.511    SUM=   0.244E-05
+    AVERAGE=   2.511    SUM=   0.243E-05
     0.00      0   3094   2822   1830   1096    627    345    182      0      0
  SPECTRUM G
-    AVERAGE=   0.065    SUM=   0.194E-05
+    AVERAGE=   0.065    SUM=   0.193E-05
     0.00   9629    236     37     48     48      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.769    SUM=   0.569E-05
+    AVERAGE=   1.769    SUM=   0.567E-05
     0.10   1174   4146   2656   1251    503    182     60     18      5      1
  SPECTRUM P
-    AVERAGE=   9.566    SUM=   0.377E-05
+    AVERAGE=   9.566    SUM=   0.375E-05
     0.00      0      0      0      0      0     36    249    835   1687   2266
    10.00   2126   1458    785    352    135     46     14      3      0      0
  SPECTRUM A
-    AVERAGE=  20.270    SUM=   0.247E-06
+    AVERAGE=  20.270    SUM=   0.246E-06
    10.00      0      0      0      0      0     67    211    520   1019   1606
    20.00   2016   1945   1388    746    318    113     34      9      2      0
  SPECTRUM F
-    AVERAGE=   0.529    SUM=   0.239E-03
+    AVERAGE=   0.529    SUM=   0.238E-03
     0.00   6510   2287    796    272     90     29      9      2      0      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -217,26 +217,26 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   230.8      EXCIT=    25.0      CN= 197At  
-    FUSION X-SECT=  0.7155E-03      LCRIT=   0.0
-    EVAP SO FAR  0.2461E-05      FISSION  0.7130E-03
+    FUSION X-SECT=  0.7133E-03      LCRIT=   0.0
+    EVAP SO FAR  0.2453E-05      FISSION  0.7107E-03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.5402E-06  0.1418E-05  0.8007E-10  0.4155E-06        0.8646E-07  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.5385E-06  0.1414E-05  0.7982E-10  0.4142E-06        0.8619E-07  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.605E-06  0.128E-05  0.571E-06
+  0.603E-06  0.128E-05  0.569E-06
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.359E-06  0.212E-06  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.358E-06  0.211E-06  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.916E-11  0.956E-06  0.328E-06
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.913E-11  0.953E-06  0.327E-06
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.865E-07  0.415E-06  0.709E-10  0.103E-06
+  0.000E+00  0.000E+00  0.000E+00  0.862E-07  0.414E-06  0.707E-10  0.103E-06
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.99    1.01    1.63
  AVERAGE A,DELTAA,FWHMA SO FAR  194.78    2.22    2.54
@@ -246,17 +246,17 @@
     AVERAGE=   2.512    SUM=   0.106E-04
     0.00      0   3160   2792   1771   1076    637    363    198      0      0
  SPECTRUM G
-    AVERAGE=   0.066    SUM=   0.847E-05
+    AVERAGE=   0.066    SUM=   0.844E-05
     0.00   9620    244     38     48     47      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.817    SUM=   0.301E-04
+    AVERAGE=   1.817    SUM=   0.300E-04
     0.10   1119   4054   2671   1301    543    206     71     22      6      1
  SPECTRUM P
     AVERAGE=   9.671    SUM=   0.195E-04
     0.00      0      0      0      0      0     31    224    774   1604   2214
    10.00   2140   1518    849    398    160     57     18      5      1      0
  SPECTRUM A
-    AVERAGE=  20.416    SUM=   0.135E-05
+    AVERAGE=  20.416    SUM=   0.134E-05
    10.00      0      0      0      0      0     57    185    467    941   1524
    20.00   1974   1974   1468    827    372    141     46     13      3      0
  SPECTRUM F
@@ -271,50 +271,50 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   232.2      EXCIT=    26.0      CN= 197At  
-    FUSION X-SECT=  0.3352E-02      LCRIT=   0.0
-    EVAP SO FAR  0.1195E-04      FISSION  0.3339E-02
+    FUSION X-SECT=  0.3342E-02      LCRIT=   0.0
+    EVAP SO FAR  0.1192E-04      FISSION  0.3329E-02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.1395E-05  0.8436E-05  0.1782E-08  0.1516E-05        0.6049E-06  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1391E-05  0.8411E-05  0.1776E-08  0.1511E-05        0.6031E-06  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.269E-05  0.642E-05  0.284E-05
+  0.269E-05  0.640E-05  0.283E-05
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.234E-05  0.504E-06  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.233E-05  0.503E-06  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.395E-09  0.553E-05  0.891E-06
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.394E-09  0.551E-05  0.888E-06
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.000E+00  0.605E-06  0.152E-05  0.139E-08  0.572E-06
+  0.000E+00  0.000E+00  0.000E+00  0.603E-06  0.151E-05  0.138E-08  0.570E-06
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   84.01    0.99    1.61
  AVERAGE A,DELTAA,FWHMA SO FAR  194.71    2.29    2.36
 
 
  SPECTRUM G
-    AVERAGE=   2.472    SUM=   0.483E-04
+    AVERAGE=   2.472    SUM=   0.482E-04
     0.00      0   3292   2814   1704   1018    611    358    200      0      0
  SPECTRUM G
-    AVERAGE=   0.065    SUM=   0.398E-04
+    AVERAGE=   0.065    SUM=   0.397E-04
     0.00   9616    251     40     47     44      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.864    SUM=   0.154E-03
+    AVERAGE=   1.864    SUM=   0.153E-03
     0.10   1070   3968   2681   1345    581    229     83     28      8      2
  SPECTRUM P
-    AVERAGE=   9.772    SUM=   0.984E-04
+    AVERAGE=   9.772    SUM=   0.981E-04
     0.00      0      0      0      0      0     27    202    718   1526   2162
    10.00   2147   1570    908    442    186     70     24      7      2      0
  SPECTRUM A
-    AVERAGE=  20.553    SUM=   0.712E-05
+    AVERAGE=  20.553    SUM=   0.710E-05
    10.00      0      0      0      0      0     49    163    422    870   1448
    20.00   1930   1992   1536    903    426    170     59     18      5      1
  SPECTRUM F
-    AVERAGE=   0.572    SUM=   0.526E-02
+    AVERAGE=   0.572    SUM=   0.524E-02
     0.00   6332   2338    855    308    108     37     12      4      1      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -325,50 +325,50 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   233.6      EXCIT=    27.0      CN= 197At  
-    FUSION X-SECT=  0.1510E-01      LCRIT=   0.0
-    EVAP SO FAR  0.5542E-04      FISSION  0.1504E-01
+    FUSION X-SECT=  0.1505E-01      LCRIT=   0.0
+    EVAP SO FAR  0.5526E-04      FISSION  0.1499E-01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.3415E-05  0.4321E-04  0.2801E-07  0.5042E-05        0.3729E-05  0.3904E-10  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.3405E-05  0.4308E-04  0.2793E-07  0.5027E-05        0.3718E-05  0.3893E-10  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.118E-04  0.310E-04  0.127E-04
+  0.117E-04  0.309E-04  0.126E-04
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.115E-04  0.114E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.115E-04  0.113E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.788E-08  0.287E-04  0.228E-05
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.785E-08  0.286E-04  0.227E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.390E-10  0.373E-05  0.504E-05  0.201E-07  0.296E-05
+  0.000E+00  0.000E+00  0.389E-10  0.372E-05  0.503E-05  0.201E-07  0.295E-05
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   84.02    0.98    1.57
  AVERAGE A,DELTAA,FWHMA SO FAR  194.68    2.32    2.27
 
 
  SPECTRUM G
-    AVERAGE=   2.434    SUM=   0.217E-03
+    AVERAGE=   2.434    SUM=   0.216E-03
     0.00      0   3382   2855   1667    968    580    346    198      0      0
  SPECTRUM G
-    AVERAGE=   0.064    SUM=   0.186E-03
+    AVERAGE=   0.064    SUM=   0.185E-03
     0.00   9616    256     39     45     41      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.909    SUM=   0.751E-03
+    AVERAGE=   1.909    SUM=   0.749E-03
     0.10   1025   3886   2689   1385    616    251     94     33     11      3
  SPECTRUM P
-    AVERAGE=   9.867    SUM=   0.473E-03
+    AVERAGE=   9.867    SUM=   0.471E-03
     0.00      0      0      0      0      0     24    184    668   1454   2110
    10.00   2149   1615    964    485    212     84     30     10      3      0
  SPECTRUM A
-    AVERAGE=  20.680    SUM=   0.359E-04
+    AVERAGE=  20.680    SUM=   0.358E-04
    10.00      0      0      0      0      0     42    144    383    808   1377
    20.00   1884   2002   1595    972    478    201     74     24      7      2
  SPECTRUM F
-    AVERAGE=   0.592    SUM=   0.235E-01
+    AVERAGE=   0.592    SUM=   0.234E-01
     0.00   6251   2359    882    325    117     41     14      4      1      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -379,51 +379,51 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   235.0      EXCIT=    28.0      CN= 197At  
-    FUSION X-SECT=  0.6210E-01      LCRIT=   0.0
-    EVAP SO FAR  0.2219E-03      FISSION  0.6187E-01
+    FUSION X-SECT=  0.6194E-01      LCRIT=   0.0
+    EVAP SO FAR  0.2213E-03      FISSION  0.6170E-01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.7575E-05  0.1800E-03  0.3214E-06  0.1470E-04        0.1932E-04  0.2067E-08  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.7554E-05  0.1795E-03  0.3206E-06  0.1466E-04        0.1927E-04  0.2062E-08  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.477E-04  0.131E-03  0.436E-04
+  0.476E-04  0.130E-03  0.435E-04
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.413E-04  0.232E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.412E-04  0.231E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.107E-06  0.125E-03  0.526E-05
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.107E-06  0.125E-03  0.524E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.207E-08  0.193E-04  0.147E-04  0.214E-06  0.135E-04
+  0.000E+00  0.000E+00  0.206E-08  0.193E-04  0.147E-04  0.213E-06  0.135E-04
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.98    1.02    1.51
  AVERAGE A,DELTAA,FWHMA SO FAR  194.64    2.36    2.31
 
 
  SPECTRUM G
-    AVERAGE=   2.430    SUM=   0.875E-03
+    AVERAGE=   2.430    SUM=   0.873E-03
     0.00      0   3375   2883   1668    954    571    344    201      0      0
  SPECTRUM G
-    AVERAGE=   0.062    SUM=   0.769E-03
+    AVERAGE=   0.062    SUM=   0.767E-03
     0.00   9624    253     38     44     39      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   1.951    SUM=   0.330E-02
+    AVERAGE=   1.951    SUM=   0.329E-02
     0.10    983   3810   2695   1421    649    273    106     39     13      4
    10.10      1      0      0      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=   9.957    SUM=   0.205E-02
+    AVERAGE=   9.957    SUM=   0.204E-02
     0.00      0      0      0      0      0     22    168    624   1389   2059
    10.00   2147   1654   1014    526    238     97     36     12      4      1
  SPECTRUM A
-    AVERAGE=  20.797    SUM=   0.163E-03
+    AVERAGE=  20.797    SUM=   0.162E-03
    10.00      0      0      0      0      0     37    129    349    753   1312
    20.00   1838   2005   1643   1034    528    231     89     31     10      3
  SPECTRUM F
-    AVERAGE=   0.612    SUM=   0.958E-01
+    AVERAGE=   0.612    SUM=   0.956E-01
     0.00   6175   2376    907    342    126     46     16      5      1      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -434,47 +434,47 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   236.4      EXCIT=    29.0      CN= 197At  
-    FUSION X-SECT=  0.2137E+00      LCRIT=   0.0
-    EVAP SO FAR  0.6932E-03      FISSION  0.2129E+00
+    FUSION X-SECT=  0.2132E+00      LCRIT=   0.0
+    EVAP SO FAR  0.6918E-03      FISSION  0.2125E+00
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.1393E-04  0.5649E-03  0.2577E-05  0.3470E-04        0.7712E-04  0.3828E-07  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1390E-04  0.5637E-03  0.2572E-05  0.3462E-04        0.7696E-04  0.3821E-07  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.162E-03  0.423E-03  0.108E-03
+  0.162E-03  0.422E-03  0.108E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.104E-03  0.393E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.104E-03  0.392E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.103E-05  0.412E-03  0.100E-04
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.103E-05  0.411E-03  0.998E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.383E-07  0.771E-04  0.347E-04  0.155E-05  0.487E-04
+  0.000E+00  0.000E+00  0.382E-07  0.770E-04  0.346E-04  0.155E-05  0.486E-04
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.92    1.08    1.46
  AVERAGE A,DELTAA,FWHMA SO FAR  194.58    2.42    2.42
 
 
  SPECTRUM G
-    AVERAGE=   2.466    SUM=   0.285E-02
-    0.00      0   3277   2879   1698    979    589    360    214      0      0
+    AVERAGE=   2.466    SUM=   0.284E-02
+    0.00      0   3278   2879   1698    979    589    360    214      0      0
  SPECTRUM G
-    AVERAGE=   0.059    SUM=   0.256E-02
+    AVERAGE=   0.059    SUM=   0.255E-02
     0.00   9643    242     35     41     37      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   1.992    SUM=   0.118E-01
     0.10    946   3739   2699   1454    680    293    117     44     16      5
    10.10      1      0      0      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.040    SUM=   0.725E-02
+    AVERAGE=  10.040    SUM=   0.724E-02
     0.00      0      0      0      0      0     20    154    586   1329   2011
    10.00   2142   1687   1059    565    263    111     43     15      5      1
  SPECTRUM A
-    AVERAGE=  20.904    SUM=   0.603E-03
+    AVERAGE=  20.904    SUM=   0.602E-03
    10.00      0      0      0      0      0     33    116    321    705   1254
    20.00   1794   2002   1683   1089    574    260    105     38     13      4
    30.00      1      0      0      0      0      0      0      0      0      0
@@ -490,14 +490,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   237.8      EXCIT=    30.0      CN= 197At  
-    FUSION X-SECT=  0.5849E+00      LCRIT=   0.0
-    EVAP SO FAR  0.1631E-02      FISSION  0.5831E+00
+    FUSION X-SECT=  0.5838E+00      LCRIT=   0.0
+    EVAP SO FAR  0.1629E-02      FISSION  0.5821E+00
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2003E-04  0.1303E-02  0.1422E-04  0.6318E-04        0.2303E-03  0.3590E-06  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1999E-04  0.1301E-02  0.1420E-04  0.6307E-04        0.2300E-03  0.3584E-06  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -505,28 +505,28 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.188E-03  0.525E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.187E-03  0.524E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.656E-05  0.983E-03  0.148E-04
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.655E-05  0.981E-03  0.148E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.359E-06  0.230E-03  0.632E-04  0.766E-05  0.133E-03
+  0.000E+00  0.000E+00  0.358E-06  0.230E-03  0.631E-04  0.764E-05  0.133E-03
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.85    1.15    1.42
  AVERAGE A,DELTAA,FWHMA SO FAR  194.50    2.50    2.59
 
 
  SPECTRUM G
-    AVERAGE=   2.531    SUM=   0.711E-02
-    0.00      0   3127   2845   1739   1029    630    391    236      0      0
+    AVERAGE=   2.531    SUM=   0.710E-02
+    0.00      0   3127   2846   1738   1029    630    391    236      0      0
  SPECTRUM G
-    AVERAGE=   0.056    SUM=   0.647E-02
+    AVERAGE=   0.056    SUM=   0.646E-02
     0.00   9663    229     31     39     36      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   2.030    SUM=   0.331E-01
+    AVERAGE=   2.030    SUM=   0.330E-01
     0.10    912   3672   2701   1483    708    313    128     50     18      6
    10.10      2      0      0      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.118    SUM=   0.201E-01
+    AVERAGE=  10.118    SUM=   0.200E-01
     0.00      0      0      0      0      0     18    143    552   1275   1966
    10.00   2134   1714   1100    600    287    125     50     19      6      2
  SPECTRUM A
@@ -535,7 +535,7 @@
    20.00   1753   1997   1717   1139    616    287    120     46     16      5
    30.00      1      0      0      0      0      0      0      0      0      0
  SPECTRUM F
-    AVERAGE=   0.648    SUM=   0.890E+00
+    AVERAGE=   0.648    SUM=   0.889E+00
     0.00   6038   2406    952    372    143     54     20      7      2      0
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -547,47 +547,47 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   239.2      EXCIT=    31.0      CN= 197At  
-    FUSION X-SECT=  0.1327E+01      LCRIT=   0.0
-    EVAP SO FAR  0.3084E-02      FISSION  0.1324E+01
+    FUSION X-SECT=  0.1325E+01      LCRIT=   0.0
+    EVAP SO FAR  0.3080E-02      FISSION  0.1322E+01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2327E-04  0.2361E-02  0.5842E-04  0.9175E-04        0.5474E-03  0.2217E-05  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.2324E-04  0.2358E-02  0.5835E-04  0.9161E-04        0.5466E-03  0.2215E-05  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.960E-03  0.186E-02  0.267E-03
+  0.959E-03  0.185E-02  0.266E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.249E-08  0.261E-03  0.571E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.249E-08  0.261E-03  0.570E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.301E-04  0.181E-02  0.176E-04
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.300E-04  0.181E-02  0.175E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.222E-05  0.547E-03  0.917E-04  0.283E-04  0.290E-03
+  0.000E+00  0.000E+00  0.221E-05  0.547E-03  0.916E-04  0.283E-04  0.290E-03
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.78    1.22    1.39
  AVERAGE A,DELTAA,FWHMA SO FAR  194.39    2.61    2.78
 
 
  SPECTRUM G
-    AVERAGE=   2.610    SUM=   0.144E-01
-    0.00      0   2958   2791   1779   1090    684    431    264      0      0
+    AVERAGE=   2.610    SUM=   0.143E-01
+    0.00      0   2958   2791   1779   1090    683    431    264      0      0
  SPECTRUM G
     AVERAGE=   0.054    SUM=   0.130E-01
     0.00   9677    219     29     37     36      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   2.067    SUM=   0.759E-01
+    AVERAGE=   2.067    SUM=   0.758E-01
     0.10    881   3608   2701   1510    735    332    139     56     21      7
    10.10      2      0      0      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.191    SUM=   0.457E-01
+    AVERAGE=  10.191    SUM=   0.456E-01
     0.00      0      0      0      0      0     16    133    522   1226   1922
    10.00   2123   1738   1138    634    311    138     57     22      8      2
  SPECTRUM A
-    AVERAGE=  21.093    SUM=   0.418E-02
+    AVERAGE=  21.093    SUM=   0.417E-02
    10.00      0      0      0      0      0     26     96    275    626   1153
    20.00   1713   1988   1744   1183    656    315    135     53     19      6
    30.00      2      0      0      0      0      0      0      0      0      0
@@ -604,14 +604,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   240.6      EXCIT=    32.0      CN= 197At  
-    FUSION X-SECT=  0.2623E+01      LCRIT=   0.0
-    EVAP SO FAR  0.5024E-02      FISSION  0.2617E+01
+    FUSION X-SECT=  0.2620E+01      LCRIT=   0.0
+    EVAP SO FAR  0.5019E-02      FISSION  0.2614E+01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2314E-04  0.3589E-02  0.1913E-03  0.1121E-03        0.1098E-02  0.1028E-04  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.2311E-04  0.3586E-02  0.1911E-03  0.1120E-03        0.1097E-02  0.1027E-04  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -619,11 +619,11 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.796E-07  0.304E-03  0.533E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.796E-07  0.303E-03  0.532E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.107E-03  0.275E-02  0.178E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.103E-04  0.110E-02  0.112E-03  0.845E-04  0.537E-03
+  0.000E+00  0.000E+00  0.103E-04  0.110E-02  0.112E-03  0.844E-04  0.537E-03
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.69    1.31    1.37
  AVERAGE A,DELTAA,FWHMA SO FAR  194.26    2.74    2.97
@@ -631,26 +631,26 @@
 
  SPECTRUM G
     AVERAGE=   2.696    SUM=   0.250E-01
-    0.00      0   2789   2722   1813   1154    743    477    297      0      0
+    0.00      0   2789   2723   1813   1154    743    477    297      0      0
  SPECTRUM G
     AVERAGE=   0.053    SUM=   0.221E-01
     0.00   9686    211     27     37     37      0      0      0      0      0
  SPECTRUM N
-    AVERAGE=   2.103    SUM=   0.152E+00
+    AVERAGE=   2.103    SUM=   0.151E+00
     0.10    852   3546   2699   1536    762    350    150     62     24      9
    10.10      3      1      0      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.261    SUM=   0.904E-01
+    AVERAGE=  10.261    SUM=   0.903E-01
     0.00      0      0      0      0      0     15    125    495   1179   1879
    10.00   2110   1758   1173    667    334    152     65     26      9      3
    20.00      1      0      0      0      0      0      0      0      0      0
  SPECTRUM A
-    AVERAGE=  21.180    SUM=   0.863E-02
+    AVERAGE=  21.180    SUM=   0.862E-02
    10.00      0      0      0      0      0     24     88    256    592   1107
    20.00   1673   1977   1768   1224    695    342    151     62     23      8
    30.00      2      0      0      0      0      0      0      0      0      0
  SPECTRUM F
-    AVERAGE=   0.683    SUM=   0.395E+01
+    AVERAGE=   0.683    SUM=   0.394E+01
     0.00   5914   2430    992    401    159     62     24      9      3      1
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -662,14 +662,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   242.0      EXCIT=    33.0      CN= 197At  
-    FUSION X-SECT=  0.4698E+01      LCRIT=   4.0
-    EVAP SO FAR  0.7441E-02      FISSION  0.4689E+01
+    FUSION X-SECT=  0.4693E+01      LCRIT=   4.0
+    EVAP SO FAR  0.7434E-02      FISSION  0.4684E+01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2060E-04  0.4806E-02  0.5249E-03  0.1205E-03        0.1931E-02  0.3845E-04  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.2058E-04  0.4801E-02  0.5244E-03  0.1204E-03        0.1929E-02  0.3842E-04  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -677,11 +677,11 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.928E-06  0.313E-03  0.447E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.927E-06  0.312E-03  0.447E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.311E-03  0.362E-02  0.161E-04
+  0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.310E-03  0.361E-02  0.161E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.384E-04  0.193E-02  0.120E-03  0.213E-03  0.877E-03
+  0.000E+00  0.000E+00  0.384E-04  0.193E-02  0.120E-03  0.213E-03  0.876E-03
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.62    1.38    1.34
  AVERAGE A,DELTAA,FWHMA SO FAR  194.10    2.90    3.12
@@ -689,7 +689,7 @@
 
  SPECTRUM G
     AVERAGE=   2.782    SUM=   0.394E-01
-    0.00      0   2634   2645   1838   1216    805    526    332      0      0
+    0.00      0   2635   2645   1838   1216    805    526    332      0      0
  SPECTRUM G
     AVERAGE=   0.052    SUM=   0.337E-01
     0.00   9692    205     26     37     38      0      0      0      0      0
@@ -708,7 +708,7 @@
    20.00   1633   1963   1788   1262    732    368    167     70     27     10
    30.00      3      1      0      0      0      0      0      0      0      0
  SPECTRUM F
-    AVERAGE=   0.699    SUM=   0.703E+01
+    AVERAGE=   0.699    SUM=   0.702E+01
     0.00   5856   2440   1011    414    167     66     26     10      3      1
 
  HALFLIFE FIRST STEP IN UNITS OF 10**(-22) SEC AS FUNTION OF J
@@ -721,18 +721,18 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   243.4      EXCIT=    34.0      CN= 197At  
-    FUSION X-SECT=  0.7797E+01      LCRIT=  16.0
-    EVAP SO FAR  0.1034E-01      FISSION  0.7784E+01
+    FUSION X-SECT=  0.7789E+01      LCRIT=  16.0
+    EVAP SO FAR  0.1033E-01      FISSION  0.7777E+01
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.1689E-04  0.5821E-02  0.1237E-02  0.1172E-03        0.3025E-02  0.1198E-03  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1687E-04  0.5816E-02  0.1236E-02  0.1171E-03        0.3023E-02  0.1197E-03  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.502E-02  0.502E-02  0.302E-03
+  0.501E-02  0.501E-02  0.302E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
@@ -740,14 +740,14 @@
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.000E+00  0.763E-03  0.424E-02  0.134E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.120E-03  0.303E-02  0.117E-03  0.469E-03  0.129E-02
+  0.000E+00  0.000E+00  0.120E-03  0.302E-02  0.117E-03  0.468E-03  0.129E-02
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.54    1.46    1.31
  AVERAGE A,DELTAA,FWHMA SO FAR  193.93    3.07    3.21
 
 
  SPECTRUM G
-    AVERAGE=   2.864    SUM=   0.578E-01
+    AVERAGE=   2.864    SUM=   0.577E-01
     0.00      0   2503   2562   1850   1272    865    576    369      0      0
  SPECTRUM G
     AVERAGE=   0.052    SUM=   0.477E-01
@@ -780,14 +780,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   244.8      EXCIT=    35.0      CN= 197At  
-    FUSION X-SECT=  0.1217E+02      LCRIT=  22.0
-    EVAP SO FAR  0.1374E-01      FISSION  0.1216E+02
+    FUSION X-SECT=  0.1216E+02      LCRIT=  22.0
+    EVAP SO FAR  0.1373E-01      FISSION  0.1215E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.1295E-04  0.6494E-02  0.2546E-02  0.1052E-03        0.4263E-02  0.3170E-03  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1294E-04  0.6489E-02  0.2544E-02  0.1051E-03        0.4260E-02  0.3168E-03  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -797,7 +797,7 @@
   191At      192At      193At      194At      195At      196At      197At  
   0.000E+00  0.000E+00  0.000E+00  0.209E-04  0.254E-03  0.250E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.739E-09  0.161E-02  0.452E-02  0.104E-04
+  0.000E+00  0.000E+00  0.000E+00  0.738E-09  0.161E-02  0.452E-02  0.104E-04
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
   0.000E+00  0.000E+00  0.317E-03  0.426E-02  0.105E-03  0.915E-03  0.172E-02
 
@@ -806,10 +806,10 @@
 
 
  SPECTRUM G
-    AVERAGE=   2.939    SUM=   0.802E-01
-    0.00      0   2400   2478   1849   1317    921    625    407      0      0
+    AVERAGE=   2.938    SUM=   0.801E-01
+    0.00      0   2400   2479   1849   1317    921    625    407      0      0
  SPECTRUM G
-    AVERAGE=   0.052    SUM=   0.642E-01
+    AVERAGE=   0.052    SUM=   0.641E-01
     0.00   9703    194     25     36     40      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.208    SUM=   0.726E+00
@@ -821,7 +821,7 @@
    10.00   2062   1802   1264    759    403    196     89     38     16      6
    20.00      2      0      0      0      0      0      0      0      0      0
  SPECTRUM A
-    AVERAGE=  21.424    SUM=   0.454E-01
+    AVERAGE=  21.424    SUM=   0.453E-01
    10.00      0      0      0      0      0     18     69    209    504    985
    20.00   1557   1931   1818   1331    802    421    200     88     37     14
    30.00      5      1      0      0      0      0      0      0      0      0
@@ -839,26 +839,26 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   246.2      EXCIT=    36.0      CN= 197At  
-    FUSION X-SECT=  0.1807E+02      LCRIT=  27.0
-    EVAP SO FAR  0.1764E-01      FISSION  0.1804E+02
+    FUSION X-SECT=  0.1805E+02      LCRIT=  27.0
+    EVAP SO FAR  0.1763E-01      FISSION  0.1803E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.9371E-05  0.6752E-02  0.4624E-02  0.8846E-04        0.5438E-02  0.7246E-03  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.9365E-05  0.6748E-02  0.4621E-02  0.8840E-04        0.5434E-02  0.7242E-03  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.998E-02  0.739E-02  0.268E-03
+  0.997E-02  0.739E-02  0.268E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.600E-04  0.206E-03  0.169E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.599E-04  0.206E-03  0.169E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.133E-07  0.295E-02  0.444E-02  0.768E-05
+  0.000E+00  0.000E+00  0.000E+00  0.133E-07  0.295E-02  0.443E-02  0.767E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.725E-03  0.544E-02  0.884E-04  0.162E-02  0.211E-02
+  0.000E+00  0.000E+00  0.724E-03  0.543E-02  0.884E-04  0.162E-02  0.211E-02
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.45    1.55    1.24
  AVERAGE A,DELTAA,FWHMA SO FAR  193.64    3.36    3.22
@@ -866,9 +866,9 @@
 
  SPECTRUM G
     AVERAGE=   3.004    SUM=   0.106E+00
-    0.00      0   2325   2398   1835   1351    971    672    444      0      0
+    0.00      0   2325   2399   1835   1351    971    672    444      0      0
  SPECTRUM G
-    AVERAGE=   0.051    SUM=   0.829E-01
+    AVERAGE=   0.051    SUM=   0.828E-01
     0.00   9708    190     24     35     40      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.242    SUM=   0.109E+01
@@ -898,14 +898,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   247.6      EXCIT=    37.0      CN= 197At  
-    FUSION X-SECT=  0.2566E+02      LCRIT=  32.0
-    EVAP SO FAR  0.2194E-01      FISSION  0.2562E+02
+    FUSION X-SECT=  0.2564E+02      LCRIT=  32.0
+    EVAP SO FAR  0.2193E-01      FISSION  0.2561E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.6403E-05  0.6606E-02  0.7479E-02  0.7180E-04        0.6327E-02  0.1453E-02  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.6399E-05  0.6603E-02  0.7475E-02  0.7176E-04        0.6323E-02  0.1452E-02  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -913,11 +913,11 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.141E-03  0.159E-03  0.104E-05  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.141E-03  0.158E-03  0.104E-05  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.991E-07  0.472E-02  0.405E-02  0.536E-05
+  0.000E+00  0.000E+00  0.000E+00  0.990E-07  0.472E-02  0.405E-02  0.536E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.145E-02  0.633E-02  0.717E-04  0.262E-02  0.239E-02
+  0.000E+00  0.000E+00  0.145E-02  0.632E-02  0.717E-04  0.262E-02  0.239E-02
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.43    1.57    1.23
  AVERAGE A,DELTAA,FWHMA SO FAR  193.52    3.48    3.19
@@ -934,7 +934,7 @@
     0.10    733   3266   2670   1638    879    440    207     93     41     17
    10.10      7      2      1      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.587    SUM=   0.898E+00
+    AVERAGE=  10.587    SUM=   0.897E+00
     0.00      0      0      0      0      0     10     92    388    985   1679
    10.00   2026   1820   1315    815    447    226    107     48     20      8
    20.00      3      1      0      0      0      0      0      0      0      0
@@ -958,18 +958,18 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   249.0      EXCIT=    38.0      CN= 197At  
-    FUSION X-SECT=  0.3504E+02      LCRIT=  35.0
-    EVAP SO FAR  0.2642E-01      FISSION  0.3500E+02
+    FUSION X-SECT=  0.3502E+02      LCRIT=  35.0
+    EVAP SO FAR  0.2641E-01      FISSION  0.3498E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.4098E-05  0.6119E-02  0.1088E-01  0.6195E-04        0.6762E-02  0.2596E-02  0.0000E+00  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.4096E-05  0.6116E-02  0.1087E-01  0.6192E-04        0.6759E-02  0.2595E-02  0.0000E+00  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.159E-01  0.102E-01  0.394E-03
+  0.159E-01  0.101E-01  0.394E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
@@ -977,7 +977,7 @@
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.423E-06  0.667E-02  0.347E-02  0.356E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.000E+00  0.260E-02  0.676E-02  0.615E-04  0.392E-02  0.253E-02
+  0.000E+00  0.000E+00  0.259E-02  0.676E-02  0.615E-04  0.392E-02  0.253E-02
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.41    1.59    1.23
  AVERAGE A,DELTAA,FWHMA SO FAR  193.42    3.58    3.17
@@ -994,7 +994,7 @@
     0.10    713   3215   2662   1654    900    457    218    100     44     19
    10.10      8      3      1      0      0      0      0      0      0      0
  SPECTRUM P
-    AVERAGE=  10.647    SUM=   0.123E+01
+    AVERAGE=  10.647    SUM=   0.122E+01
     0.00      0      0      0      0      0     10     87    371    953   1643
    10.00   2007   1827   1338    841    469    240    116     53     23     10
    20.00      4      1      0      0      0      0      0      0      0      0
@@ -1019,14 +1019,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   250.4      EXCIT=    39.0      CN= 197At  
-    FUSION X-SECT=  0.4624E+02      LCRIT=  39.0
-    EVAP SO FAR  0.3075E-01      FISSION  0.4619E+02
+    FUSION X-SECT=  0.4622E+02      LCRIT=  39.0
+    EVAP SO FAR  0.3073E-01      FISSION  0.4617E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.2257E-05  0.5397E-02  0.1438E-01  0.7189E-04        0.6695E-02  0.4198E-02  0.6177E-08  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.2256E-05  0.5395E-02  0.1438E-01  0.7187E-04        0.6692E-02  0.4197E-02  0.6175E-08  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1034,11 +1034,11 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.000E+00  0.455E-03  0.808E-04  0.000E+00  0.000E+00
+  0.000E+00  0.000E+00  0.000E+00  0.454E-03  0.808E-04  0.000E+00  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.130E-05  0.842E-02  0.281E-02  0.226E-05
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
-  0.000E+00  0.618E-08  0.420E-02  0.669E-02  0.706E-04  0.550E-02  0.250E-02
+  0.000E+00  0.617E-08  0.420E-02  0.669E-02  0.706E-04  0.550E-02  0.250E-02
 
  AVERAGE Z,DELTAZ,FWHMZ SO FAR   83.40    1.60    1.24
  AVERAGE A,DELTAA,FWHMA SO FAR  193.33    3.67    3.19
@@ -1080,14 +1080,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   251.8      EXCIT=    40.0      CN= 197At  
-    FUSION X-SECT=  0.5919E+02      LCRIT=  42.0
-    EVAP SO FAR  0.3458E-01      FISSION  0.5913E+02
+    FUSION X-SECT=  0.5916E+02      LCRIT=  42.0
+    EVAP SO FAR  0.3456E-01      FISSION  0.5910E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.1355E-05  0.4555E-02  0.1749E-01  0.1276E-03        0.6188E-02  0.6218E-02  0.5138E-07  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.1354E-05  0.4553E-02  0.1748E-01  0.1275E-03        0.6186E-02  0.6216E-02  0.5136E-07  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1107,7 +1107,7 @@
 
  SPECTRUM G
     AVERAGE=   3.220    SUM=   0.237E+00
-    0.00      0   2102   2151   1758   1431   1128    839    588      0      0
+    0.00      0   2103   2151   1758   1431   1128    839    588      0      0
  SPECTRUM G
     AVERAGE=   0.050    SUM=   0.164E+00
     0.00   9712    188     23     34     41      0      0      0      0      0
@@ -1126,7 +1126,7 @@
    20.00   1386   1835   1851   1459    951    543    283    138     64     28
    30.00     12      5      1      0      0      0      0      0      0      0
  SPECTRUM F
-    AVERAGE=   0.807    SUM=   0.857E+02
+    AVERAGE=   0.807    SUM=   0.856E+02
     0.00   5503   2489   1119    498    220     96     41     17      7      3
    10.00      1      0      0      0      0      0      0      0      0      0
 
@@ -1141,14 +1141,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   253.2      EXCIT=    41.0      CN= 197At  
-    FUSION X-SECT=  0.7373E+02      LCRIT=  45.0
-    EVAP SO FAR  0.3763E-01      FISSION  0.7366E+02
+    FUSION X-SECT=  0.7370E+02      LCRIT=  45.0
+    EVAP SO FAR  0.3762E-01      FISSION  0.7363E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.7316E-06  0.3691E-02  0.1979E-01  0.2748E-03        0.5380E-02  0.8498E-02  0.2861E-06  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.7314E-06  0.3690E-02  0.1978E-01  0.2747E-03        0.5378E-02  0.8496E-02  0.2860E-06  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1156,9 +1156,9 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.269E-08  0.730E-03  0.353E-04  0.000E+00  0.000E+00
+  0.000E+00  0.000E+00  0.269E-08  0.730E-03  0.352E-04  0.000E+00  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
-  0.000E+00  0.000E+00  0.000E+00  0.934E-05  0.100E-01  0.159E-02  0.732E-06
+  0.000E+00  0.000E+00  0.000E+00  0.934E-05  0.999E-02  0.159E-02  0.731E-06
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
   0.000E+00  0.286E-06  0.850E-02  0.538E-02  0.265E-03  0.906E-02  0.206E-02
 
@@ -1168,7 +1168,7 @@
 
  SPECTRUM G
     AVERAGE=   3.277    SUM=   0.270E+00
-    0.00      0   2023   2102   1751   1453   1165    879    623      0      0
+    0.00      0   2023   2102   1751   1453   1164    879    623      0      0
  SPECTRUM G
     AVERAGE=   0.051    SUM=   0.180E+00
     0.00   9708    190     23     34     42      0      0      0      0      0
@@ -1203,14 +1203,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   254.6      EXCIT=    42.0      CN= 197At  
-    FUSION X-SECT=  0.8964E+02      LCRIT=  47.0
-    EVAP SO FAR  0.3978E-01      FISSION  0.8956E+02
+    FUSION X-SECT=  0.8961E+02      LCRIT=  47.0
+    EVAP SO FAR  0.3977E-01      FISSION  0.8953E+02
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.3330E-06  0.2883E-02  0.2111E-01  0.5816E-03        0.4429E-02  0.1078E-01  0.1205E-05  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.3329E-06  0.2883E-02  0.2110E-01  0.5815E-03        0.4428E-02  0.1078E-01  0.1205E-05  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1230,10 +1230,10 @@
 
  SPECTRUM G
     AVERAGE=   3.336    SUM=   0.301E+00
-    0.00      0   1931   2055   1750   1479   1203    919    659      0      0
+    0.00      0   1932   2055   1750   1479   1203    919    659      0      0
  SPECTRUM G
     AVERAGE=   0.105    SUM=   0.195E+00
-    0.00   9555    191     36     81    134      0      0      0      0      0
+    0.00   9556    191     36     81    134      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.435    SUM=   0.543E+01
     0.10    641   3027   2623   1708    976    521    262    127     60     27
@@ -1265,14 +1265,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   256.0      EXCIT=    43.0      CN= 197At  
     FUSION X-SECT=  0.1067E+03      LCRIT=  50.0
-    EVAP SO FAR  0.4095E-01      FISSION  0.1066E+03
+    EVAP SO FAR  0.4094E-01      FISSION  0.1066E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.2179E-02  0.2143E-01  0.1129E-02        0.3475E-02  0.1273E-01  0.4147E-05  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.2178E-02  0.2143E-01  0.1128E-02        0.3474E-02  0.1272E-01  0.4146E-05  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1291,8 +1291,8 @@
 
 
  SPECTRUM G
-    AVERAGE=   3.441    SUM=   0.346E+00
-    0.00      0   1757   1967   1762   1538   1274    985    712      0      0
+    AVERAGE=   3.441    SUM=   0.345E+00
+    0.00      0   1758   1968   1762   1538   1274    985    712      0      0
  SPECTRUM G
     AVERAGE=   0.116    SUM=   0.203E+00
     0.00   9524    193     36     88    157      0      0      0      0      0
@@ -1327,22 +1327,22 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   257.4      EXCIT=    44.0      CN= 197At  
     FUSION X-SECT=  0.1246E+03      LCRIT=  52.0
-    EVAP SO FAR  0.4113E-01      FISSION  0.1245E+03
+    EVAP SO FAR  0.4112E-01      FISSION  0.1245E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.1598E-02  0.2089E-01  0.1991E-02        0.2613E-02  0.1403E-01  0.1213E-04  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.1597E-02  0.2089E-01  0.1991E-02        0.2613E-02  0.1402E-01  0.1213E-04  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
-  0.325E-01  0.796E-02  0.627E-03
+  0.325E-01  0.796E-02  0.626E-03
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.890E-06  0.617E-03  0.817E-05  0.000E+00  0.000E+00
+  0.000E+00  0.000E+00  0.889E-06  0.617E-03  0.816E-05  0.000E+00  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.114E-03  0.734E-02  0.510E-03  0.000E+00
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
@@ -1354,10 +1354,10 @@
 
  SPECTRUM G
     AVERAGE=   3.613    SUM=   0.431E+00
-    0.00      0   1468   1818   1787   1644   1395   1091    793      0      0
+    0.00      0   1469   1818   1787   1644   1395   1091    793      0      0
  SPECTRUM G
-    AVERAGE=   0.267    SUM=   0.215E+00
-    0.00   9104    189     67    211    426      0      0      0      0      0
+    AVERAGE=   0.266    SUM=   0.215E+00
+    0.00   9106    189     67    211    425      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.496    SUM=   0.739E+01
     0.10    610   2942   2602   1730   1009    551    284    141     68     32
@@ -1389,14 +1389,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   258.8      EXCIT=    45.0      CN= 197At  
-    FUSION X-SECT=  0.1432E+03      LCRIT=  55.0
-    EVAP SO FAR  0.4042E-01      FISSION  0.1430E+03
+    FUSION X-SECT=  0.1431E+03      LCRIT=  55.0
+    EVAP SO FAR  0.4041E-01      FISSION  0.1430E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.1140E-02  0.1965E-01  0.3218E-02        0.1893E-02  0.1449E-01  0.3084E-04  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.1140E-02  0.1965E-01  0.3218E-02        0.1893E-02  0.1448E-01  0.3084E-04  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1404,7 +1404,7 @@
 
   CROSS SECTIONS (MB)
   191At      192At      193At      194At      195At      196At      197At  
-  0.000E+00  0.000E+00  0.281E-05  0.504E-03  0.479E-05  0.000E+00  0.000E+00
+  0.000E+00  0.000E+00  0.281E-05  0.503E-03  0.479E-05  0.000E+00  0.000E+00
   190Po      191Po      192Po      193Po      194Po      195Po      196Po  
   0.000E+00  0.000E+00  0.000E+00  0.217E-03  0.592E-02  0.330E-03  0.000E+00
   189Bi      190Bi      191Bi      192Bi      193Bi      194Bi      195Bi  
@@ -1416,10 +1416,10 @@
 
  SPECTRUM G
     AVERAGE=   3.856    SUM=   0.653E+00
-    0.00      0   1057   1599   1825   1802   1571   1239    903      0      0
+    0.00      0   1058   1599   1825   1802   1571   1239    902      0      0
  SPECTRUM G
-    AVERAGE=   0.693    SUM=   0.246E+00
-    0.00   7920    173    153    560   1191      0      0      0      0      0
+    AVERAGE=   0.692    SUM=   0.246E+00
+    0.00   7923    173    153    559   1189      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.525    SUM=   0.838E+01
     0.10    596   2901   2591   1739   1025    565    294    148     72     34
@@ -1451,14 +1451,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   260.2      EXCIT=    46.0      CN= 197At  
     FUSION X-SECT=  0.1621E+03      LCRIT=  57.0
-    EVAP SO FAR  0.3900E-01      FISSION  0.1619E+03
+    EVAP SO FAR  0.3900E-01      FISSION  0.1618E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.7950E-03  0.1791E-01  0.4815E-02        0.1328E-02  0.1409E-01  0.6905E-04  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.7949E-03  0.1791E-01  0.4814E-02        0.1328E-02  0.1409E-01  0.6905E-04  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1478,10 +1478,10 @@
 
  SPECTRUM G
     AVERAGE=   4.068    SUM=   0.117E+01
-    0.00      0    708   1405   1852   1936   1725   1371   1001      0      0
+    0.00      0    708   1405   1852   1936   1724   1370   1000      0      0
  SPECTRUM G
-    AVERAGE=   1.289    SUM=   0.302E+00
-    0.00   6269    148    272   1045   2265      0      0      0      0      0
+    AVERAGE=   1.288    SUM=   0.302E+00
+    0.00   6272    148    271   1044   2263      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.554    SUM=   0.935E+01
     0.10    583   2862   2579   1748   1040    579    305    155     77     37
@@ -1489,7 +1489,7 @@
  SPECTRUM P
     AVERAGE=  11.069    SUM=   0.520E+01
     0.00      0      0      0      0      0      6     58    270    751   1400
-   10.00   1853   1833   1465   1009    619    351    189     97     48     23
+   10.00   1853   1833   1465   1009    619    352    189     97     48     23
    20.00     11      5      2      0      0      0      0      0      0      0
  SPECTRUM A
     AVERAGE=  22.124    SUM=   0.771E+00
@@ -1513,14 +1513,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   261.6      EXCIT=    47.0      CN= 197At  
     FUSION X-SECT=  0.1812E+03      LCRIT=  59.0
-    EVAP SO FAR  0.3715E-01      FISSION  0.1808E+03
+    EVAP SO FAR  0.3715E-01      FISSION  0.1807E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.5426E-03  0.1586E-01  0.6733E-02        0.9064E-03  0.1297E-01  0.1376E-03  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.5426E-03  0.1586E-01  0.6733E-02        0.9064E-03  0.1297E-01  0.1375E-03  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1539,11 +1539,11 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.190    SUM=   0.213E+01
-    0.00      0    515   1293   1860   2007   1811   1448   1061      0      0
+    AVERAGE=   4.190    SUM=   0.212E+01
+    0.00      0    516   1293   1860   2007   1811   1448   1061      0      0
  SPECTRUM G
-    AVERAGE=   1.916    SUM=   0.400E+00
-    0.00   4535    120    394   1550   3399      0      0      0      0      0
+    AVERAGE=   1.915    SUM=   0.400E+00
+    0.00   4537    120    394   1549   3397      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.583    SUM=   0.103E+02
     0.10    570   2823   2567   1756   1054    593    315    162     81     39
@@ -1575,14 +1575,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   263.0      EXCIT=    48.0      CN= 197At  
     FUSION X-SECT=  0.2002E+03      LCRIT=  69.0
     EVAP SO FAR  0.3514E-01      FISSION  0.1995E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.3636E-03  0.1366E-01  0.8881E-02        0.6043E-03  0.1138E-01  0.2465E-03  0.0000E+00  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.3636E-03  0.1366E-01  0.8881E-02        0.6042E-03  0.1138E-01  0.2465E-03  0.0000E+00  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -1604,8 +1604,8 @@
     AVERAGE=   4.256    SUM=   0.361E+01
     0.00      0    420   1232   1858   2040   1856   1492   1099      0      0
  SPECTRUM G
-    AVERAGE=   2.413    SUM=   0.543E+00
-    0.00   3163     98    488   1945   4303      0      0      0      0      0
+    AVERAGE=   2.412    SUM=   0.542E+00
+    0.00   3165     98    488   1945   4302      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.611    SUM=   0.112E+02
     0.10    557   2786   2556   1763   1068    606    325    169     85     42
@@ -1616,7 +1616,7 @@
    10.00   1816   1826   1485   1041    651    377    207    109     55     27
    20.00     13      6      2      1      0      0      0      0      0      0
  SPECTRUM A
-    AVERAGE=  22.226    SUM=   0.966E+00
+    AVERAGE=  22.226    SUM=   0.965E+00
    10.00      0      0      0      0      0      7     31    106    291    648
    20.00   1173   1676   1831   1569   1118    701    404    219    113     56
    30.00     27     13      5      2      1      0      0      0      0      0
@@ -1637,10 +1637,10 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   264.4      EXCIT=    49.0      CN= 197At  
-    FUSION X-SECT=  0.2190E+03      LCRIT=  69.0
-    EVAP SO FAR  0.3321E-01      FISSION  0.2179E+03
+    FUSION X-SECT=  0.2189E+03      LCRIT=  69.0
+    EVAP SO FAR  0.3321E-01      FISSION  0.2178E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
@@ -1664,10 +1664,10 @@
 
  SPECTRUM G
     AVERAGE=   4.295    SUM=   0.571E+01
-    0.00      0    370   1195   1851   2054   1881   1521   1125      0      0
+    0.00      0    370   1195   1851   2054   1881   1520   1125      0      0
  SPECTRUM G
     AVERAGE=   2.751    SUM=   0.723E+00
-    0.00   2232     82    549   2210   4924      0      0      0      0      0
+    0.00   2234     82    549   2210   4923      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.639    SUM=   0.121E+02
     0.10    546   2750   2544   1769   1081    619    335    176     90     44
@@ -1699,10 +1699,10 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   265.8      EXCIT=    50.0      CN= 197At  
     FUSION X-SECT=  0.2372E+03      LCRIT=  69.0
-    EVAP SO FAR  0.3150E-01      FISSION  0.2357E+03
+    EVAP SO FAR  0.3150E-01      FISSION  0.2356E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
@@ -1725,11 +1725,11 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.321    SUM=   0.870E+01
+    AVERAGE=   4.321    SUM=   0.869E+01
     0.00      0    341   1170   1842   2060   1897   1541   1146      0      0
  SPECTRUM G
-    AVERAGE=   2.995    SUM=   0.970E+00
-    0.00   1565     70    591   2397   5375      0      0      0      0      0
+    AVERAGE=   2.994    SUM=   0.969E+00
+    0.00   1566     70    591   2397   5375      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.667    SUM=   0.129E+02
     0.10    534   2716   2532   1775   1094    632    345    183     94     47
@@ -1761,7 +1761,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   267.2      EXCIT=    51.0      CN= 197At  
     FUSION X-SECT=  0.2548E+03      LCRIT=  69.0
     EVAP SO FAR  0.3003E-01      FISSION  0.2527E+03
@@ -1787,11 +1787,11 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.341    SUM=   0.126E+02
-    0.00      0    323   1152   1832   2061   1907   1557   1165      0      0
+    AVERAGE=   4.341    SUM=   0.125E+02
+    0.00      0    323   1152   1832   2061   1907   1557   1164      0      0
  SPECTRUM G
-    AVERAGE=   3.154    SUM=   0.127E+01
-    0.00   1131     61    616   2515   5674      0      0      0      0      0
+    AVERAGE=   3.154    SUM=   0.126E+01
+    0.00   1132     61    616   2515   5674      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.694    SUM=   0.138E+02
     0.10    524   2682   2519   1780   1106    644    355    189     98     50
@@ -1823,9 +1823,9 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   268.6      EXCIT=    52.0      CN= 197At  
-    FUSION X-SECT=  0.2717E+03      LCRIT=  69.0
+    FUSION X-SECT=  0.2716E+03      LCRIT=  69.0
     EVAP SO FAR  0.2878E-01      FISSION  0.2688E+03
 
  MASS DISTRIBUTION
@@ -1853,7 +1853,7 @@
     0.00      0    311   1136   1822   2060   1915   1571   1181      0      0
  SPECTRUM G
     AVERAGE=   3.257    SUM=   0.159E+01
-    0.00    853     56    629   2586   5873      0      0      0      0      0
+    0.00    854     56    629   2586   5873      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.721    SUM=   0.146E+02
     0.10    513   2649   2507   1785   1117    656    364    196    103     52
@@ -1885,9 +1885,9 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   270.0      EXCIT=    53.0      CN= 197At  
-    FUSION X-SECT=  0.2875E+03      LCRIT=  69.0
+    FUSION X-SECT=  0.2874E+03      LCRIT=  69.0
     EVAP SO FAR  0.2764E-01      FISSION  0.2838E+03
 
  MASS DISTRIBUTION
@@ -1911,7 +1911,7 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.372    SUM=   0.234E+02
+    AVERAGE=   4.372    SUM=   0.233E+02
     0.00      0    302   1123   1812   2057   1921   1584   1197      0      0
  SPECTRUM G
     AVERAGE=   3.329    SUM=   0.195E+01
@@ -1947,7 +1947,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   271.4      EXCIT=    54.0      CN= 197At  
     FUSION X-SECT=  0.3021E+03      LCRIT=  69.0
     EVAP SO FAR  0.2652E-01      FISSION  0.2975E+03
@@ -2009,7 +2009,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   272.8      EXCIT=    55.0      CN= 197At  
     FUSION X-SECT=  0.3155E+03      LCRIT=  69.0
     EVAP SO FAR  0.2532E-01      FISSION  0.3099E+03
@@ -2071,8 +2071,8 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
-    ELAB=   274.2      EXCIT=    56.0      CN= 197At  
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
+    ELAB=   274.1      EXCIT=    56.0      CN= 197At  
     FUSION X-SECT=  0.3275E+03      LCRIT=  69.0
     EVAP SO FAR  0.2397E-01      FISSION  0.3209E+03
 
@@ -2097,7 +2097,7 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.408    SUM=   0.465E+02
+    AVERAGE=   4.408    SUM=   0.464E+02
     0.00      0    284   1089   1781   2047   1936   1618   1241      0      0
  SPECTRUM G
     AVERAGE=   3.442    SUM=   0.302E+01
@@ -2133,7 +2133,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   275.5      EXCIT=    57.0      CN= 197At  
     FUSION X-SECT=  0.3380E+03      LCRIT=  69.0
     EVAP SO FAR  0.2246E-01      FISSION  0.3304E+03
@@ -2195,14 +2195,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   276.9      EXCIT=    58.0      CN= 197At  
     FUSION X-SECT=  0.3470E+03      LCRIT=  69.0
     EVAP SO FAR  0.2081E-01      FISSION  0.3385E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.3527E-05  0.9815E-03  0.1598E-01        0.9210E-03  0.6102E-03  0.2278E-02  0.3310E-04  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.3527E-05  0.9816E-03  0.1598E-01        0.9210E-03  0.6102E-03  0.2279E-02  0.3310E-04  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -2257,7 +2257,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   278.3      EXCIT=    59.0      CN= 197At  
     FUSION X-SECT=  0.3546E+03      LCRIT=  69.0
     EVAP SO FAR  0.1907E-01      FISSION  0.3451E+03
@@ -2319,7 +2319,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   279.7      EXCIT=    60.0      CN= 197At  
     FUSION X-SECT=  0.3607E+03      LCRIT=  69.0
     EVAP SO FAR  0.1732E-01      FISSION  0.3504E+03
@@ -2349,7 +2349,7 @@
     0.00      0    268   1050   1742   2031   1951   1658   1296      0      0
  SPECTRUM G
     AVERAGE=   3.505    SUM=   0.377E+01
-    0.00    212     40    634   2710   6402      0      0      0      0      0
+    0.00    213     40    634   2710   6402      0      0      0      0      0
  SPECTRUM N
     AVERAGE=   2.925    SUM=   0.208E+02
     0.10    444   2415   2409   1808   1194    741    436    249    139     75
@@ -2381,14 +2381,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   281.1      EXCIT=    61.0      CN= 197At  
     FUSION X-SECT=  0.3655E+03      LCRIT=  69.0
     EVAP SO FAR  0.1564E-01      FISSION  0.3545E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.7384E-06  0.3386E-03  0.1093E-01        0.2165E-02  0.1900E-03  0.1876E-02  0.1422E-03  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.7385E-06  0.3386E-03  0.1093E-01        0.2165E-02  0.1900E-03  0.1876E-02  0.1422E-03  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -2443,7 +2443,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   282.5      EXCIT=    62.0      CN= 197At  
     FUSION X-SECT=  0.3691E+03      LCRIT=  69.0
     EVAP SO FAR  0.1409E-01      FISSION  0.3575E+03
@@ -2469,7 +2469,7 @@
 
 
  SPECTRUM G
-    AVERAGE=   4.470    SUM=   0.964E+02
+    AVERAGE=   4.470    SUM=   0.963E+02
     0.00      0    262   1033   1724   2023   1957   1677   1322      0      0
  SPECTRUM G
     AVERAGE=   3.522    SUM=   0.375E+01
@@ -2505,14 +2505,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   283.9      EXCIT=    63.0      CN= 197At  
     FUSION X-SECT=  0.3716E+03      LCRIT=  69.0
     EVAP SO FAR  0.1271E-01      FISSION  0.3596E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.2586E-06  0.1594E-03  0.7639E-02        0.3128E-02  0.9476E-04  0.1414E-02  0.2708E-03  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.2586E-06  0.1594E-03  0.7640E-02        0.3128E-02  0.9477E-04  0.1414E-02  0.2708E-03  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -2567,7 +2567,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   285.3      EXCIT=    64.0      CN= 197At  
     FUSION X-SECT=  0.3731E+03      LCRIT=  69.0
     EVAP SO FAR  0.1151E-01      FISSION  0.3608E+03
@@ -2629,7 +2629,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   286.7      EXCIT=    65.0      CN= 197At  
     FUSION X-SECT=  0.3739E+03      LCRIT=  69.0
     EVAP SO FAR  0.1048E-01      FISSION  0.3613E+03
@@ -2691,7 +2691,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   288.1      EXCIT=    66.0      CN= 197At  
     FUSION X-SECT=  0.3740E+03      LCRIT=  69.0
     EVAP SO FAR  0.9614E-02      FISSION  0.3613E+03
@@ -2753,7 +2753,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   289.5      EXCIT=    67.0      CN= 197At  
     FUSION X-SECT=  0.3736E+03      LCRIT=  69.0
     EVAP SO FAR  0.8873E-02      FISSION  0.3608E+03
@@ -2815,7 +2815,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   290.9      EXCIT=    68.0      CN= 197At  
     FUSION X-SECT=  0.3728E+03      LCRIT=  69.0
     EVAP SO FAR  0.8227E-02      FISSION  0.3600E+03
@@ -2877,7 +2877,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   292.3      EXCIT=    69.0      CN= 197At  
     FUSION X-SECT=  0.3717E+03      LCRIT=  69.0
     EVAP SO FAR  0.7652E-02      FISSION  0.3590E+03
@@ -2939,7 +2939,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   293.7      EXCIT=    70.0      CN= 197At  
     FUSION X-SECT=  0.3704E+03      LCRIT=  69.0
     EVAP SO FAR  0.7050E-02      FISSION  0.3577E+03
@@ -3001,14 +3001,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   295.1      EXCIT=    71.0      CN= 197At  
     FUSION X-SECT=  0.3690E+03      LCRIT=  69.0
-    EVAP SO FAR  0.6361E-02      FISSION  0.3563E+03
+    EVAP SO FAR  0.6361E-02      FISSION  0.3564E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.0000E+00  0.5898E-05  0.7061E-03        0.4247E-02  0.6755E-03  0.2053E-03  0.5214E-03  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.0000E+00  0.5898E-05  0.7062E-03        0.4247E-02  0.6755E-03  0.2053E-03  0.5214E-03  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  
@@ -3063,7 +3063,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   296.5      EXCIT=    72.0      CN= 197At  
     FUSION X-SECT=  0.3674E+03      LCRIT=  69.0
     EVAP SO FAR  0.5408E-02      FISSION  0.3549E+03
@@ -3125,7 +3125,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   297.9      EXCIT=    73.0      CN= 197At  
     FUSION X-SECT=  0.3658E+03      LCRIT=  69.0
     EVAP SO FAR  0.5066E-02      FISSION  0.3534E+03
@@ -3187,7 +3187,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   299.3      EXCIT=    74.0      CN= 197At  
     FUSION X-SECT=  0.3641E+03      LCRIT=  69.0
     EVAP SO FAR  0.4757E-02      FISSION  0.3518E+03
@@ -3249,10 +3249,10 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   300.7      EXCIT=    75.0      CN= 197At  
     FUSION X-SECT=  0.3624E+03      LCRIT=  69.0
-    EVAP SO FAR  0.4465E-02      FISSION  0.3503E+03
+    EVAP SO FAR  0.4466E-02      FISSION  0.3503E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
@@ -3311,7 +3311,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   302.1      EXCIT=    76.0      CN= 197At  
     FUSION X-SECT=  0.3607E+03      LCRIT=  69.0
     EVAP SO FAR  0.4181E-02      FISSION  0.3488E+03
@@ -3373,7 +3373,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   303.5      EXCIT=    77.0      CN= 197At  
     FUSION X-SECT=  0.3591E+03      LCRIT=  69.0
     EVAP SO FAR  0.3901E-02      FISSION  0.3472E+03
@@ -3435,7 +3435,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   304.9      EXCIT=    78.0      CN= 197At  
     FUSION X-SECT=  0.3574E+03      LCRIT=  69.0
     EVAP SO FAR  0.3623E-02      FISSION  0.3457E+03
@@ -3497,7 +3497,7 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   306.3      EXCIT=    79.0      CN= 197At  
     FUSION X-SECT=  0.3558E+03      LCRIT=  69.0
     EVAP SO FAR  0.3343E-02      FISSION  0.3442E+03
@@ -3559,14 +3559,14 @@
 
  HIVAP  ENGOUT
 
-   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:22 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 23:57 (Sitarcik)
     ELAB=   307.7      EXCIT=    80.0      CN= 197At  
     FUSION X-SECT=  0.3542E+03      LCRIT=  69.0
     EVAP SO FAR  0.3053E-02      FISSION  0.3426E+03
 
  MASS DISTRIBUTION
         7           6           5           4           3                 2           1           0           9           8
- 197  0.0000E+00  0.0000E+00  0.0000E+00  0.8632E-07  0.7314E-05        0.8528E-03  0.2042E-02  0.3063E-04  0.1206E-03  0.0000E+00
+ 197  0.0000E+00  0.0000E+00  0.0000E+00  0.8632E-07  0.7314E-05        0.8529E-03  0.2042E-02  0.3063E-04  0.1206E-03  0.0000E+00
 
  Z-DISTIBUTION
     Bi         Po         At  

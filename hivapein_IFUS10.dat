@@ -1,6 +1,6 @@
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS10 barfac0.66 19/09/2022 21:38 (Sitarcik)
 ----------------------------------------------------------------------- 
-  MPROJ=88  ZPROJ=38  MTARG=92  ZTARG=42                         
+  MPROJ=56  ZPROJ=26  MTARG=141  ZTARG=59                         
   ISHELL(GS)=2  ISHELL(SADDLE)=2  PAIRING=4  MC=0  MP=0            
   IBF=1  FISROT PARAMETERS=2                                          
   NOFISSION=0  NONEUTRONS=0  NOPROTONS=0  NOALPHAS=0 NO GAMMAS=0   
@@ -20,7 +20,7 @@
   IF  IGAM NOT ZERO                                                    
   CGIANT=0.0    EGIANT=0     WGIANT=0        STRIPE=0    IOPT=0  
 -----------------------------------------------------------------------
-   LEVELPAR=1.16 AF/AN=1.00 BARFAC=0.85 EDAMP=18.5 BAR0=0.       
+   LEVELPAR=1.16 AF/AN=1.00 BARFAC=0.66 EDAMP=18.5 BAR0=0.       
    SHELL0=0.0 DELT=0  QVALUE=0.                                  
 -----------------------------------------------------------------------
      ONLY IF LIMITS NOT ZERO                                           
@@ -30,295 +30,295 @@ CUT=.1E-6 FRACT2=.1E-6 ABSMIN=0 PRCN=0 SIGLOW=0 DEL1=0 NOLEP=0 =0 =0
  ENERGY       SPIN           ENERGY       SPIN     ENERGY    SPIN   
 -----------------------------------------------------------------------
  E=8   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=9   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5    
 -----------------------------------------------------------------------
  E=10   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=11   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=12   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=13   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=14   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=15   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=16   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=17   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=18   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=19   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=20   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=21   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=22   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=23   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=24   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=25   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=26   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=27   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=28   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=29   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=30   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=31   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=32   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=33   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=34   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=35   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=36   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=37   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=38   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=39   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=40   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=41   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=42   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=43   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=44   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=45   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=46   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=47   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=48   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=49   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=50   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=51   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=52   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=53   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=54   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=55   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=56   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=57   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=58   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=59   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=60   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=61   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=62   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=63   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=64   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=65   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=66   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=67   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=68   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=69   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=70   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=71   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=72   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5  
 -----------------------------------------------------------------------
  E=73   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=74   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=75   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=76   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=77   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=78   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=79   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
  E=80   IEXC 1 IFUS=10 LIMBAR=1 JLOWER 0 JUPPER 0 0 0 0 ENERGY1=0    
- V0=40 r0=1.10695 D=0.75 Q2=0.035   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
+ V0=40 r0=1.1081 D=0.75 Q2=0.0   CRED=1.0 NOCURV=0 NOPROX=0 IOPT=0
  ITEST=0 sigr=2.5 
 -----------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   333.5      EXCIT=    16.0      CN= 180Hg  
     FUSION X-SECT=  0.3970E-05      LCRIT=   0.0
     EVAP SO FAR  0.3324E-05      FISSION  0.6468E-06
@@ -55,7 +55,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   335.5      EXCIT=    17.0      CN= 180Hg  
     FUSION X-SECT=  0.2065E-04      LCRIT=   0.0
     EVAP SO FAR  0.1665E-04      FISSION  0.4002E-05
@@ -109,7 +109,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   337.5      EXCIT=    18.0      CN= 180Hg  
     FUSION X-SECT=  0.1051E-03      LCRIT=   0.0
     EVAP SO FAR  0.8239E-04      FISSION  0.2275E-04
@@ -163,7 +163,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   339.4      EXCIT=    19.0      CN= 180Hg  
     FUSION X-SECT=  0.5242E-03      LCRIT=   0.0
     EVAP SO FAR  0.4025E-03      FISSION  0.1216E-03
@@ -217,7 +217,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   341.4      EXCIT=    20.0      CN= 180Hg  
     FUSION X-SECT=  0.2543E-02      LCRIT=   0.0
     EVAP SO FAR  0.1924E-02      FISSION  0.6177E-03
@@ -271,7 +271,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   343.3      EXCIT=    21.0      CN= 180Hg  
     FUSION X-SECT=  0.1169E-01      LCRIT=   0.0
     EVAP SO FAR  0.8733E-02      FISSION  0.2955E-02
@@ -325,7 +325,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   345.3      EXCIT=    22.0      CN= 180Hg  
     FUSION X-SECT=  0.4775E-01      LCRIT=   0.0
     EVAP SO FAR  0.3498E-01      FISSION  0.1273E-01
@@ -379,7 +379,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   347.2      EXCIT=    23.0      CN= 180Hg  
     FUSION X-SECT=  0.1611E+00      LCRIT=   0.0
     EVAP SO FAR  0.1141E+00      FISSION  0.4672E-01
@@ -433,7 +433,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   349.2      EXCIT=    24.0      CN= 180Hg  
     FUSION X-SECT=  0.4401E+00      LCRIT=   0.0
     EVAP SO FAR  0.2961E+00      FISSION  0.1429E+00
@@ -488,7 +488,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   351.2      EXCIT=    25.0      CN= 180Hg  
     FUSION X-SECT=  0.1004E+01      LCRIT=   0.0
     EVAP SO FAR  0.6314E+00      FISSION  0.3692E+00
@@ -543,7 +543,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   353.1      EXCIT=    26.0      CN= 180Hg  
     FUSION X-SECT=  0.1998E+01      LCRIT=   0.0
     EVAP SO FAR  0.1161E+01      FISSION  0.8282E+00
@@ -599,7 +599,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   355.1      EXCIT=    27.0      CN= 180Hg  
     FUSION X-SECT=  0.3596E+01      LCRIT=   0.0
     EVAP SO FAR  0.1916E+01      FISSION  0.1659E+01
@@ -655,7 +655,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   357.0      EXCIT=    28.0      CN= 180Hg  
     FUSION X-SECT=  0.6002E+01      LCRIT=  12.0
     EVAP SO FAR  0.2923E+01      FISSION  0.3035E+01
@@ -711,7 +711,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   359.0      EXCIT=    29.0      CN= 180Hg  
     FUSION X-SECT=  0.9424E+01      LCRIT=  20.0
     EVAP SO FAR  0.4196E+01      FISSION  0.5146E+01
@@ -767,7 +767,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   360.9      EXCIT=    30.0      CN= 180Hg  
     FUSION X-SECT=  0.1407E+02      LCRIT=  26.0
     EVAP SO FAR  0.5739E+01      FISSION  0.8192E+01
@@ -825,7 +825,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   362.9      EXCIT=    31.0      CN= 180Hg  
     FUSION X-SECT=  0.2014E+02      LCRIT=  31.0
     EVAP SO FAR  0.7542E+01      FISSION  0.1236E+02
@@ -883,7 +883,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   364.9      EXCIT=    32.0      CN= 180Hg  
     FUSION X-SECT=  0.2773E+02      LCRIT=  35.0
     EVAP SO FAR  0.9572E+01      FISSION  0.1780E+02
@@ -941,7 +941,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   366.8      EXCIT=    33.0      CN= 180Hg  
     FUSION X-SECT=  0.3693E+02      LCRIT=  39.0
     EVAP SO FAR  0.1177E+02      FISSION  0.2462E+02
@@ -999,7 +999,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   368.8      EXCIT=    34.0      CN= 180Hg  
     FUSION X-SECT=  0.4774E+02      LCRIT=  42.0
     EVAP SO FAR  0.1406E+02      FISSION  0.3293E+02
@@ -1059,7 +1059,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   370.7      EXCIT=    35.0      CN= 180Hg  
     FUSION X-SECT=  0.6005E+02      LCRIT=  45.0
     EVAP SO FAR  0.1632E+02      FISSION  0.4271E+02
@@ -1119,7 +1119,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   372.7      EXCIT=    36.0      CN= 180Hg  
     FUSION X-SECT=  0.7376E+02      LCRIT=  48.0
     EVAP SO FAR  0.1845E+02      FISSION  0.5397E+02
@@ -1180,7 +1180,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   374.6      EXCIT=    37.0      CN= 180Hg  
     FUSION X-SECT=  0.8865E+02      LCRIT=  51.0
     EVAP SO FAR  0.2031E+02      FISSION  0.6661E+02
@@ -1241,7 +1241,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   376.6      EXCIT=    38.0      CN= 180Hg  
     FUSION X-SECT=  0.1045E+03      LCRIT=  54.0
     EVAP SO FAR  0.2183E+02      FISSION  0.8048E+02
@@ -1302,7 +1302,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   378.5      EXCIT=    39.0      CN= 180Hg  
     FUSION X-SECT=  0.1210E+03      LCRIT=  56.0
     EVAP SO FAR  0.2296E+02      FISSION  0.9533E+02
@@ -1363,7 +1363,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   380.5      EXCIT=    40.0      CN= 180Hg  
     FUSION X-SECT=  0.1380E+03      LCRIT=  68.0
     EVAP SO FAR  0.2371E+02      FISSION  0.1109E+03
@@ -1424,7 +1424,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   382.5      EXCIT=    41.0      CN= 180Hg  
     FUSION X-SECT=  0.1552E+03      LCRIT=  68.0
     EVAP SO FAR  0.2411E+02      FISSION  0.1269E+03
@@ -1485,7 +1485,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   384.4      EXCIT=    42.0      CN= 180Hg  
     FUSION X-SECT=  0.1722E+03      LCRIT=  68.0
     EVAP SO FAR  0.2423E+02      FISSION  0.1430E+03
@@ -1546,7 +1546,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   386.4      EXCIT=    43.0      CN= 180Hg  
     FUSION X-SECT=  0.1889E+03      LCRIT=  68.0
     EVAP SO FAR  0.2413E+02      FISSION  0.1588E+03
@@ -1607,7 +1607,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   388.3      EXCIT=    44.0      CN= 180Hg  
     FUSION X-SECT=  0.2051E+03      LCRIT=  68.0
     EVAP SO FAR  0.2387E+02      FISSION  0.1742E+03
@@ -1668,7 +1668,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   390.3      EXCIT=    45.0      CN= 180Hg  
     FUSION X-SECT=  0.2205E+03      LCRIT=  68.0
     EVAP SO FAR  0.2349E+02      FISSION  0.1887E+03
@@ -1730,7 +1730,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   392.2      EXCIT=    46.0      CN= 180Hg  
     FUSION X-SECT=  0.2350E+03      LCRIT=  68.0
     EVAP SO FAR  0.2303E+02      FISSION  0.2023E+03
@@ -1792,7 +1792,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   394.2      EXCIT=    47.0      CN= 180Hg  
     FUSION X-SECT=  0.2484E+03      LCRIT=  68.0
     EVAP SO FAR  0.2254E+02      FISSION  0.2147E+03
@@ -1854,7 +1854,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   396.2      EXCIT=    48.0      CN= 180Hg  
     FUSION X-SECT=  0.2606E+03      LCRIT=  68.0
     EVAP SO FAR  0.2193E+02      FISSION  0.2259E+03
@@ -1916,7 +1916,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   398.1      EXCIT=    49.0      CN= 180Hg  
     FUSION X-SECT=  0.2714E+03      LCRIT=  68.0
     EVAP SO FAR  0.2125E+02      FISSION  0.2357E+03
@@ -1978,7 +1978,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   400.1      EXCIT=    50.0      CN= 180Hg  
     FUSION X-SECT=  0.2808E+03      LCRIT=  68.0
     EVAP SO FAR  0.2053E+02      FISSION  0.2442E+03
@@ -2040,7 +2040,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   402.0      EXCIT=    51.0      CN= 180Hg  
     FUSION X-SECT=  0.2889E+03      LCRIT=  68.0
     EVAP SO FAR  0.1977E+02      FISSION  0.2513E+03
@@ -2102,7 +2102,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   404.0      EXCIT=    52.0      CN= 180Hg  
     FUSION X-SECT=  0.2955E+03      LCRIT=  68.0
     EVAP SO FAR  0.1898E+02      FISSION  0.2572E+03
@@ -2164,7 +2164,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   405.9      EXCIT=    53.0      CN= 180Hg  
     FUSION X-SECT=  0.3009E+03      LCRIT=  68.0
     EVAP SO FAR  0.1817E+02      FISSION  0.2619E+03
@@ -2226,7 +2226,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   407.9      EXCIT=    54.0      CN= 180Hg  
     FUSION X-SECT=  0.3052E+03      LCRIT=  68.0
     EVAP SO FAR  0.1736E+02      FISSION  0.2656E+03
@@ -2288,7 +2288,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   409.9      EXCIT=    55.0      CN= 180Hg  
     FUSION X-SECT=  0.3083E+03      LCRIT=  68.0
     EVAP SO FAR  0.1655E+02      FISSION  0.2683E+03
@@ -2350,7 +2350,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   411.8      EXCIT=    56.0      CN= 180Hg  
     FUSION X-SECT=  0.3105E+03      LCRIT=  68.0
     EVAP SO FAR  0.1576E+02      FISSION  0.2702E+03
@@ -2412,7 +2412,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   413.8      EXCIT=    57.0      CN= 180Hg  
     FUSION X-SECT=  0.3119E+03      LCRIT=  68.0
     EVAP SO FAR  0.1497E+02      FISSION  0.2715E+03
@@ -2474,7 +2474,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   415.7      EXCIT=    58.0      CN= 180Hg  
     FUSION X-SECT=  0.3126E+03      LCRIT=  68.0
     EVAP SO FAR  0.1421E+02      FISSION  0.2722E+03
@@ -2536,7 +2536,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   417.7      EXCIT=    59.0      CN= 180Hg  
     FUSION X-SECT=  0.3127E+03      LCRIT=  68.0
     EVAP SO FAR  0.1346E+02      FISSION  0.2724E+03
@@ -2598,7 +2598,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   419.6      EXCIT=    60.0      CN= 180Hg  
     FUSION X-SECT=  0.3124E+03      LCRIT=  68.0
     EVAP SO FAR  0.1274E+02      FISSION  0.2724E+03
@@ -2660,7 +2660,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   421.6      EXCIT=    61.0      CN= 180Hg  
     FUSION X-SECT=  0.3118E+03      LCRIT=  68.0
     EVAP SO FAR  0.1204E+02      FISSION  0.2720E+03
@@ -2722,7 +2722,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   423.5      EXCIT=    62.0      CN= 180Hg  
     FUSION X-SECT=  0.3110E+03      LCRIT=  68.0
     EVAP SO FAR  0.1137E+02      FISSION  0.2715E+03
@@ -2784,7 +2784,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   425.5      EXCIT=    63.0      CN= 180Hg  
     FUSION X-SECT=  0.3099E+03      LCRIT=  68.0
     EVAP SO FAR  0.1073E+02      FISSION  0.2709E+03
@@ -2846,7 +2846,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   427.5      EXCIT=    64.0      CN= 180Hg  
     FUSION X-SECT=  0.3087E+03      LCRIT=  68.0
     EVAP SO FAR  0.1056E+02      FISSION  0.2701E+03
@@ -2908,7 +2908,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   429.4      EXCIT=    65.0      CN= 180Hg  
     FUSION X-SECT=  0.3075E+03      LCRIT=  68.0
     EVAP SO FAR  0.9979E+01      FISSION  0.2693E+03
@@ -2970,7 +2970,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   431.4      EXCIT=    66.0      CN= 180Hg  
     FUSION X-SECT=  0.3061E+03      LCRIT=  68.0
     EVAP SO FAR  0.9424E+01      FISSION  0.2685E+03
@@ -3032,7 +3032,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   433.3      EXCIT=    67.0      CN= 180Hg  
     FUSION X-SECT=  0.3048E+03      LCRIT=  68.0
     EVAP SO FAR  0.8901E+01      FISSION  0.2677E+03
@@ -3094,7 +3094,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   435.3      EXCIT=    68.0      CN= 180Hg  
     FUSION X-SECT=  0.3034E+03      LCRIT=  68.0
     EVAP SO FAR  0.8408E+01      FISSION  0.2669E+03
@@ -3156,7 +3156,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   437.2      EXCIT=    69.0      CN= 180Hg  
     FUSION X-SECT=  0.3021E+03      LCRIT=  68.0
     EVAP SO FAR  0.7944E+01      FISSION  0.2660E+03
@@ -3218,7 +3218,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   439.2      EXCIT=    70.0      CN= 180Hg  
     FUSION X-SECT=  0.3007E+03      LCRIT=  68.0
     EVAP SO FAR  0.7506E+01      FISSION  0.2652E+03
@@ -3280,7 +3280,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   441.2      EXCIT=    71.0      CN= 180Hg  
     FUSION X-SECT=  0.2994E+03      LCRIT=  68.0
     EVAP SO FAR  0.7090E+01      FISSION  0.2643E+03
@@ -3342,7 +3342,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   443.1      EXCIT=    72.0      CN= 180Hg  
     FUSION X-SECT=  0.2981E+03      LCRIT=  68.0
     EVAP SO FAR  0.6694E+01      FISSION  0.2635E+03
@@ -3404,7 +3404,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   445.1      EXCIT=    73.0      CN= 180Hg  
     FUSION X-SECT=  0.2968E+03      LCRIT=  68.0
     EVAP SO FAR  0.6216E+01      FISSION  0.2626E+03
@@ -3466,7 +3466,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   447.0      EXCIT=    74.0      CN= 180Hg  
     FUSION X-SECT=  0.2955E+03      LCRIT=  68.0
     EVAP SO FAR  0.5780E+01      FISSION  0.2617E+03
@@ -3528,7 +3528,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   449.0      EXCIT=    75.0      CN= 180Hg  
     FUSION X-SECT=  0.2942E+03      LCRIT=  68.0
     EVAP SO FAR  0.5393E+01      FISSION  0.2608E+03
@@ -3590,7 +3590,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   450.9      EXCIT=    76.0      CN= 180Hg  
     FUSION X-SECT=  0.2929E+03      LCRIT=  68.0
     EVAP SO FAR  0.5047E+01      FISSION  0.2600E+03
@@ -3652,7 +3652,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   452.9      EXCIT=    77.0      CN= 180Hg  
     FUSION X-SECT=  0.2916E+03      LCRIT=  68.0
     EVAP SO FAR  0.4733E+01      FISSION  0.2591E+03
@@ -3714,7 +3714,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   454.9      EXCIT=    78.0      CN= 180Hg  
     FUSION X-SECT=  0.2904E+03      LCRIT=  68.0
     EVAP SO FAR  0.4443E+01      FISSION  0.2582E+03
@@ -3776,7 +3776,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   456.8      EXCIT=    79.0      CN= 180Hg  
     FUSION X-SECT=  0.2891E+03      LCRIT=  68.0
     EVAP SO FAR  0.4169E+01      FISSION  0.2573E+03
@@ -3838,7 +3838,7 @@
 
  HIVAP  ENGOUT
 
-   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 18/09/2022 19:21 (Sitarcik) 
+   88Sr + 92Mo ---> 180Hg IFUS10 barfac0.85 19/09/2022 18:03 (Sitarcik) 
     ELAB=   458.8      EXCIT=    80.0      CN= 180Hg  
     FUSION X-SECT=  0.2879E+03      LCRIT=  68.0
     EVAP SO FAR  0.3917E+01      FISSION  0.2564E+03

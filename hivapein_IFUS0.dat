@@ -1,6 +1,6 @@
-   88Sr + 92Mo ---> 180Hg IFUS0 barfac0.85 19/09/2022 22:55 (Sitarcik)
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:22 (Sitarcik)
 ----------------------------------------------------------------------- 
-  MPROJ=88  ZPROJ=38  MTARG=92  ZTARG=42                         
+  MPROJ=56  ZPROJ=26  MTARG=141  ZTARG=59                         
   ISHELL(GS)=2  ISHELL(SADDLE)=2  PAIRING=4  MC=0  MP=0            
   IBF=1  FISROT PARAMETERS=2                                          
   NOFISSION=0  NONEUTRONS=0  NOPROTONS=0  NOALPHAS=0 NO GAMMAS=0   
@@ -20,7 +20,7 @@
   IF  IGAM NOT ZERO                                                    
   CGIANT=0.0    EGIANT=0     WGIANT=0        STRIPE=0    IOPT=0  
 -----------------------------------------------------------------------
-   LEVELPAR=1.16 AF/AN=1.00 BARFAC=0.85 EDAMP=18.5 BAR0=0.       
+   LEVELPAR=1.16 AF/AN=1.00 BARFAC=0.66 EDAMP=18.5 BAR0=0.       
    SHELL0=0.0 DELT=0  QVALUE=0.                                  
 -----------------------------------------------------------------------
      ONLY IF LIMITS NOT ZERO                                           

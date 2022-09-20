@@ -14,7 +14,7 @@ barfac=0.66
 r0=`python3 r0_calc.py $mproj $zproj $mtarg $ztarg`
 q2=0.0
 sigr=2.5
-v0=40
+v0=59
 
 line1=$(sed '1q;d' hivapein_IFUS10.dat)
 line3=$(sed '3q;d' hivapein_IFUS10.dat)

@@ -2,7 +2,7 @@
 
            Bearbeitung F.P.Heßberger
            
-   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:57 (Sitarcik) 
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 20/09/2022 00:21 (Sitarcik) 
            
 
  Unterprogramm SEPENF
@@ -269,7 +269,7 @@ E_lab = 236.424 MeV    E* =  29.000 MeV   nicht gerechnet, SIGFUS kleiner als 1 
 
  HIVAP  CASOUT
 
-   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:57 (Sitarcik) 
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 20/09/2022 00:21 (Sitarcik) 
 
 
      E_lab  A*MeV   E*/MeV     SI_fus      SI_VR     SI_Spalt  L_krit     b_Spalt
@@ -435,7 +435,7 @@ E_lab = 236.424 MeV    E* =  29.000 MeV   nicht gerechnet, SIGFUS kleiner als 1 
 
  HIVAP  CASOUT
 
-   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:57 (Sitarcik) 
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 20/09/2022 00:21 (Sitarcik) 
 
 
      E_lab  A*MeV   E*/MeV     SI_fus      SI_VR     SI_Spalt  L_krit     b_Spalt
@@ -601,7 +601,7 @@ E_lab = 236.424 MeV    E* =  29.000 MeV   nicht gerechnet, SIGFUS kleiner als 1 
 
  HIVAP  CASOUT
 
-   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:57 (Sitarcik) 
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 20/09/2022 00:21 (Sitarcik) 
 
 
      E_lab  A*MeV   E*/MeV     SI_fus      SI_VR     SI_Spalt  L_krit     b_Spalt
@@ -758,7 +758,7 @@ E_lab = 236.424 MeV    E* =  29.000 MeV   nicht gerechnet, SIGFUS kleiner als 1 
 
  HIVAP  CASOUT
 
-   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 19/09/2022 23:57 (Sitarcik) 
+   56Fe + 141Pr ---> 197At IFUS0 barfac0.66 20/09/2022 00:21 (Sitarcik) 
 
 
      E_lab  A*MeV   E*/MeV     SI_fus      SI_VR     SI_Spalt  L_krit     b_Spalt
